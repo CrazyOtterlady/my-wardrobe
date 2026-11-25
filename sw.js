@@ -1,2 +1,2 @@
 self.addEventListener('install',()=>self.skipWaiting()); self.addEventListener('activate',e=>e.waitUntil(self.clients.claim()));
-// My Wardrobe update 02
+// My Wardrobe update 03
